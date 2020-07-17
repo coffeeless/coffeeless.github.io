@@ -5,7 +5,7 @@ date: "7/16/2020"
 output: html_document
 ---
 
-# The simple yet awesome website
+# The simple yet awesome website - Created by CARL KEUSSEYAN
 ## Note the 6 lines of text above are the YAML tags
 ### We will knit the RMD to html
 Then push the index.html to github
