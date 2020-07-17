@@ -9,3 +9,7 @@ output: html_document
 ## Note the 6 lines of text above are the YAML tags
 ### We will knit the RMD to html
 Then push the index.html to github
+
+
+Trying some new lines
+
