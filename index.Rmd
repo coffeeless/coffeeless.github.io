@@ -1,15 +1,26 @@
 ---
-title: "Simple Website"
+title: "Carl's Website"
 author: "Carl Keusseyan"
 date: "7/16/2020"
 output: html_document
 ---
 
-# The simple yet awesome website - Created by CARL KEUSSEYAN
-## Note the 6 lines of text above are the YAML tags
-### We will knit the RMD to html
-Then push the index.html to github
 
 
-Trying some new lines
-SEcond Try on some new lines
+About me |
+------------- | -------------
+Name  | Carl Keusseyan
+Where you are from | San Antonio, Texas
+Your Interests | Bicycling, Forging, Archery
+Where You Work | USAA
+Where you went to school | Cornell University
+
+
+
+
+
+
+
+The other tabs represent work / analyses that I have completed.  Please check them out!
+
+

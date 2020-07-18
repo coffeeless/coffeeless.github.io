@@ -1,0 +1,10 @@
+name: simple_website
+title:
+username:
+account: carlk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2585212
+bundleId: 3406024
+url: https://carlk.shinyapps.io/simple_website/
+when: 1595040335.34998
